@@ -92,6 +92,4 @@ To run the code in this repository, you will need to have Python installed, alon
 
 Once the dependencies are installed, you can open the notebook `sales forecasting.ipynb` in Jupyter and run the cells to execute the code.
 
-## License
 
-This project is licensed under the terms of the MIT license.
